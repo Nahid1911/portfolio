@@ -8,7 +8,7 @@
         Hi! I'm <span class="poppins text-violet-400">Nahid</span> Raihan <br>
          Full Stack <span class="poppins text-violet-400">Developer</span> with a <span class="poppins text-violet-400">finance</span> background,
       </h2>
-      <p class="text-base sm:text-lg md:text-xl">
+      <p class="text-base font-semibold sm:text-lg md:text-xl">
          Unique blend of <span class="text-violet-400">tech skills</span> and <span class="text-violet-400">business acumen</span>, transforming client needs into effective software solutions aligned with business goals.
         </p>
       <p class="text-base sm:text-lg md:text-xl">My <span class="text-violet-400">favorite tech</span> includes JavaScript, React, Redux, Ruby on Rails, TailwindCSS, BootStrap</p>
@@ -23,5 +23,14 @@
     <div class="relative shadow-2xl grid place-items-center">
       <img src={"images/Nahid_wearing_panjabi-removebg-preview.jpg"} alt="Profile Image" class="rounded-full object-cover z-[2] max-h-[65vh]">
     </div>
+  </section>
+  <section id="project" class="py-20 lg:py-32 flex flex-col gap-24">
+    <div class="flex flex-col gap-3 text-center">
+      <h6 class="text-lg sm:text-xl md:text-2xl">
+        A few of my creative endeavors.
+      </h6>
+      <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">Curious to <span class="poppins text-violet-400">see</span> my work?</h3>
+    </div>
+
   </section>
 </main>
