@@ -17,5 +17,8 @@
       </h4>   
       </a>
     </div>
+    <div class="rounded-full">
+      <img src={"images/Nahid_wearing_panjabi-removebg-preview.jpg"} alt="Profile Image" class="rounded-full object-cover z-[2] max-h-[70vh]">
+    </div>
   </section>
 </main>
